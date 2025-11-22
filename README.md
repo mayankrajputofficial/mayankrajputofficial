@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Mayank 👋
 
-<!--
-**mayankrajputofficial/mayankrajputofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer** focused on containerization, cloud infrastructure, and CI/CD.
 
-Here are some ideas to get you started:
+- 🔧 Working with: Linux, Docker, Kubernetes, GitHub Actions, AWS
+- ☁️ Experience with: EKS, EC2, S3
+- 🧩 Background in: IBM BPM Development & deployment support
+- 📌 Currently improving: Cloud-native deployments & automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Featured Projects
+
+- [DevOps Portfolio Website](https://github.com/mayankrajputofficial/devops-portfolio) – Cloud-hosted portfolio to showcase my DevOps work.
+- [Go Web Application – DevOps Demo](https://github.com/mayankrajputofficial/project-gowebapp) – Go app with Docker, Kubernetes, and CI/CD.
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/mayankrajputofficial](https://www.linkedin.com/in/mayankrajputofficial/)
+- Email: mayankrajputofficial@gmail.com
