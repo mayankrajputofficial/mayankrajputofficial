@@ -1,18 +1,14 @@
-# Hi, I'm Mayank 👋
+Cloud & DevOps Engineer building self-hosted infrastructure on Oracle Cloud.
 
-**DevOps Engineer** focused on containerization, cloud infrastructure, and CI/CD.
+Current focus:
+- Dockerized deployments
+- CI/CD automation using GitHub Actions
+- Linux networking & debugging
+- Reverse proxy & Nginx
+- Terraform & Kubernetes (learning)
 
-- 🔧 Working with: Linux, Docker, Kubernetes, GitHub Actions, AWS
-- ☁️ Experience with: EKS, EC2, S3
-- 🧩 Background in: IBM BPM Development & deployment support
-- 📌 Currently improving: Cloud-native deployments & automation
-
-## 🔗 Featured Projects
-
-- [DevOps Portfolio Website](https://github.com/mayankrajputofficial/devops-portfolio) – Cloud-hosted portfolio to showcase my DevOps work.
-- [Go Web Application – DevOps Demo](https://github.com/mayankrajputofficial/project-gowebapp) – Go app with Docker, Kubernetes, and CI/CD.
-
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/in/mayankrajputofficial](https://www.linkedin.com/in/mayankrajputofficial/)
-- Email: mayankrajputofficial@gmail.com
+Current Infrastructure:
+- OCI Free Tier VM
+- Docker + Nginx stack
+- Automated SSH deployment pipeline
+- HTTPS with Let's Encrypt
