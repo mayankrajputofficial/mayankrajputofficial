@@ -1,11 +1,11 @@
-Cloud & DevOps Engineer building self-hosted infrastructure on Oracle Cloud.
+A Mechanical Engineer turned Cloud & DevOps Engineer, who is building reliable infrastructure on AWS and OCI. 
 
 Current focus:
 - Dockerized deployments
 - CI/CD automation using GitHub Actions
 - Linux networking & debugging
 - Reverse proxy & Nginx
-- Terraform & Kubernetes (learning)
+- Currently expanding into Terraform for infrastructure provisioning.
 
 Current Infrastructure:
 - OCI Free Tier VM
